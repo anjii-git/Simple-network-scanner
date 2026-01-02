@@ -1,6 +1,6 @@
 import os
 
-# change this if your network is different
+
 network = "192.168.1"
 
 print("Scanning network...\n")
